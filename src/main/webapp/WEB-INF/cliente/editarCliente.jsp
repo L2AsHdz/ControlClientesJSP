@@ -33,9 +33,6 @@
                             <div class="card ">
                                 <div class="card-header">
                                     <div class="col-xl-3">
-                                        <a href="index.jsp" class="btn btn-light btn-block">
-                                            <i class="fas fa-arrow-left "></i> Regresar al inicio
-                                        </a>
                                     </div>
                                     <h4>Editar Cliente</h4>
                                 </div>
